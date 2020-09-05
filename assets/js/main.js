@@ -308,11 +308,6 @@ var settings = {
 
 })(jQuery);
 
-function openWindowPop(url, name){
-    var options = 'top=25, left=400, width=1000, height=800, resizable=no, status=no, menubar=no, toolbar=no, resizable=no scrollbars=no';
-	window.open(url, name, options);
-}
-
 function closeWindow() {  
 	setTimeout(function() {  
 		window.close();  

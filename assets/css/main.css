@@ -1640,7 +1640,7 @@
 	body, input, select, textarea {
 		font-family: 'Iropke Batang', serif;
 		font-weight: 300;
-		font-size: 1rem;
+		font-size: 1.3rem;
 		line-height: 1.65;
 	}
 
@@ -1666,7 +1666,7 @@
 
 		p.special {
 			text-transform: uppercase;
-			font-size: .75rem;
+			font-size: 1.1rem;
 			font-weight: 300;
 			margin: 0 0 .5rem 0;
 			padding: 0 0 1rem 0;
@@ -1697,9 +1697,9 @@
 		}
 
 	h2 {
-		font-size: 1.75rem;
+		font-size: 1.90rem;
 	}
-
+ 
 	h3 {
 		font-size: 1.35rem;
 	}
@@ -1831,7 +1831,7 @@
 
 		.box header p {
 			text-transform: uppercase;
-			font-size: .75rem;
+			font-size: 1.3rem;
 			font-weight: 300;
 			margin: 0 0 .25rem 0;
 			padding: 0 0 .75rem 0;
@@ -3337,7 +3337,7 @@
 
 			.wrapper.style3 p {
 				text-transform: uppercase;
-				font-size: .75rem;
+				font-size: 1.1rem;
 				font-weight: 300;
 				margin: 0 0 .5rem 0;
 				padding: 0 0 1rem 0;
@@ -4177,7 +4177,7 @@
 			.banner > article p {
 				color: rgba(255, 255, 255, 0.65);
 				text-transform: uppercase;
-				font-size: 1rem;
+				font-size: 1.3rem;
 				font-weight: 300;
 				margin: 0;
 				padding-bottom: 1.75rem;
